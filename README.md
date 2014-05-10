@@ -1,7 +1,7 @@
 Doge Blaster
 ============
 
-Doge Blaster is a Dogecoin tip bot on the freenode IRC network. It has the basic commands for securely sending and recieving Dogecoins. The blaster in Doge Blaster comes from its randomly timed Dogecoin give away. This give away is powered by tips and dedicated crypto-currency miners. Each tip to doge blaster is split evenly between tip outs and a reinvestment into the miners that automatically feed him. To make up the initial donations we will be paying back 1% of the coins to the dev-team and cryptosolution. This bot is in no way an investment for tippers and does not entitle users to a share of the miners. The goal of this project is not to generate a profit but to create a growing and self feeding supply of coins to new users in the community.
+Doge Blaster is a Dogecoin tip bot on the freenode IRC network. It has the basic commands for securely sending and recieving Dogecoins. The blaster in Doge Blaster comes from its randomly timed Dogecoin give away. THe blast targets any active user since the last blasting and evenly distributes coins. This give away is powered by tips and dedicated crypto-currency miners. Each tip to doge blaster is split evenly between tip outs and a reinvestment into the miners that automatically feed him. To make up the initial donations we will be paying back 1% of the coins to the dev-team and cryptosolution. This bot is in no way an investment for tippers and does not entitle users to a share of the miners. The goal of this project is not to generate a profit but to create a growing and self feeding supply of coins to new users in the community.
 
 Brought to you by: BohemianHacks, SammoSideKick, cryptosolution, and the users of #teamdoge
 
