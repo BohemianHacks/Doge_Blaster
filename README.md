@@ -8,26 +8,26 @@ Brought to you by: BohemianHacks, SammoSideKick, cryptosolution, and the users o
 Commands
 =========
 
-!help
+.help
 -----
 Returns basic info and command usage.
 
-!btip (user|address) (amount)
+.btip (user|address) (amount)
 -----------------------------
 Allows sending of coin to users or Dogecoin addresses
 
-!balance
+.balance
 --------
 Returns the amount in your wallet
 
-!deposit
+.deposit
 --------
 Returns the public key for your wallet
 
-!withdraw (address) (amount)
+.withdraw (address) (amount)
 ---------
 Withdraws all coins or optionally a specific amount
 
-!minerinfo
+.minerinfo
 ----------
 Returns Doge Blaster stats
